@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Assignment1">
+  <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="openCart.openCartTestCases">
+      <methods>
+      	<include name="verifyUserRegisteration"/>
+      	<include name="verifyUserLogin"/>
+      	<include name="verifyMostExpensiveLaptop"/>
+      	<include name="verifyCalculatedCostOfProducts"/>
+      </methods>    
+     </class> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

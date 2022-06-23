@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40538" started-at="2022-06-22T21:55:56 EDT" finished-at="2022-06-22T21:56:37 EDT">
+    <groups>
+    </groups>
+    <test name="Assignment1" duration-ms="40538" started-at="2022-06-22T21:55:56 EDT" finished-at="2022-06-22T21:56:37 EDT">
+      <class name="openCart.openCartTestCases">
+        <test-method status="PASS" signature="verifyUserRegisteration()[pri:0, instance:openCart.openCartTestCases@67c2e933]" name="verifyUserRegisteration" duration-ms="19751" started-at="2022-06-22T21:55:56 EDT" finished-at="2022-06-22T21:56:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserRegisteration -->
+        <test-method status="PASS" signature="verifyUserLogin()[pri:0, instance:openCart.openCartTestCases@67c2e933]" name="verifyUserLogin" duration-ms="17136" started-at="2022-06-22T21:56:16 EDT" finished-at="2022-06-22T21:56:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLogin -->
+        <test-method status="PASS" signature="verifyMostExpensiveLaptop()[pri:0, instance:openCart.openCartTestCases@67c2e933]" name="verifyMostExpensiveLaptop" duration-ms="74" started-at="2022-06-22T21:56:33 EDT" finished-at="2022-06-22T21:56:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMostExpensiveLaptop -->
+        <test-method status="PASS" signature="verifyCalculatedCostOfProducts()[pri:0, instance:openCart.openCartTestCases@67c2e933]" name="verifyCalculatedCostOfProducts" duration-ms="3528" started-at="2022-06-22T21:56:33 EDT" finished-at="2022-06-22T21:56:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCalculatedCostOfProducts -->
+      </class> <!-- openCart.openCartTestCases -->
+    </test> <!-- Assignment1 -->
+  </suite> <!-- Suite -->
+</testng-results>
